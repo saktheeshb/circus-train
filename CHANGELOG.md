@@ -1,4 +1,4 @@
-## [14.1.0] - TBD
+## [14.1.0] - 2019-09-04
 ### Removed
 * Excluded `org.pentaho:pentaho-aggdesigner-algorithm` from build.
 
